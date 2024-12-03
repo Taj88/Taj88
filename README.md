@@ -11,7 +11,7 @@
 <!-- <li>
 <!-- <p>🔭 I’m currently working on  Creative Axis</p> -->
 <!-- </li> -->
-<li> -->
+<li>
 <p>🌱 I’m currently learning NextJS,TypeScript,Bootstrap</p>
 </li>
 
